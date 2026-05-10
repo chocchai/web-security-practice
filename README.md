@@ -17,6 +17,7 @@ Ubuntu 기반 Apache/PHP/MySQL 환경에서
 
 - Ubuntu Linux 환경 구축
 - Apache + PHP + MySQL 연동
+- - MySQL을 이용한 기본적인 데이터베이스 구성 및 조회 실습
 - 웹 브라우저와 서버 간 요청/응답 방식 이해
 - 로그인 및 검색 기능 구현
 - SQL Injection 실습
