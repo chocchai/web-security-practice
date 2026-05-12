@@ -1,7 +1,13 @@
 # Pictures 
 <img width="988" height="622" alt="Addslashes" src="https://github.com/user-attachments/assets/35990b66-310a-476e-8fed-46965ab0bc91" />
+
+- 입력값을 addslashes 함수 처리하여 주석처리를 이용한 injection 이 통하지 않는 모습
 <img width="914" height="653" alt="prepared_statement" src="https://github.com/user-attachments/assets/ac04d06a-56c1-43eb-ab37-e47b2546deba" />
+
+-prepared_statement 를 적용해 입력값을 쿼리부분과 명확히 구분하는 상태로 보완
 <img width="988" height="694" alt="html_entity" src="https://github.com/user-attachments/assets/f3da06df-64a8-4d35-a611-5ff26ab87130" />
+
+-htmlentities 사용하여 자바스크립트를 형태의 공격을 문자열 처리로 무효화
 
 
 
