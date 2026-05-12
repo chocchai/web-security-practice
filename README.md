@@ -1,3 +1,15 @@
+# Pictures 
+<img width="914" height="653" alt="prepared_statement" src="https://github.com/user-attachments/assets/58ab2781-7fbf-4b18-a425-8e3c88e19012" />
+<img width="914" height="653" alt="addslashes" src="https://github.com/user-attachments/assets/902d9976-46bf-425e-aa29-875c1294b377" />
+<img width="988" height="694" alt="html_entity" src="https://github.com/user-attachments/assets/cabd6930-507c-4d5e-877b-6ec08827f928" />
+
+
+
+
+
+
+
+
 # Web Security Practice
 
 Ubuntu 기반 Apache/PHP/MySQL 환경에서  
@@ -91,3 +103,5 @@ Example:
 
 본 프로젝트는 학습 목적의 로컬 환경 실습 프로젝트입니다.  
 실제 서비스 공격 목적이 아닌 웹 보안 원리 이해를 목표로 진행하였습니다.
+
+
