@@ -1,7 +1,7 @@
 # Pictures 
-<img width="914" height="653" alt="prepared_statement" src="https://github.com/user-attachments/assets/58ab2781-7fbf-4b18-a425-8e3c88e19012" />
-<img width="914" height="653" alt="addslashes" src="https://github.com/user-attachments/assets/902d9976-46bf-425e-aa29-875c1294b377" />
-<img width="988" height="694" alt="html_entity" src="https://github.com/user-attachments/assets/cabd6930-507c-4d5e-877b-6ec08827f928" />
+<img width="988" height="622" alt="Addslashes" src="https://github.com/user-attachments/assets/35990b66-310a-476e-8fed-46965ab0bc91" />
+<img width="914" height="653" alt="prepared_statement" src="https://github.com/user-attachments/assets/ac04d06a-56c1-43eb-ab37-e47b2546deba" />
+<img width="988" height="694" alt="html_entity" src="https://github.com/user-attachments/assets/f3da06df-64a8-4d35-a611-5ff26ab87130" />
 
 
 
